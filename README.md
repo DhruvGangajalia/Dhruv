@@ -14,12 +14,17 @@ Service | API Integration | IBM Waston | OCR | NLP
 
 - 💬 Ask me about **Angularjs,C#,.Net Core,EF,Javascript**
 
-- 📫 How to reach me **Dhruvga19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dhruv-gangajalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-gangajalia" height="30" width="40" /></a>  
 
+<div align="center">
+  <a href="mailto:Dhruvga19@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhruv-gangajalia">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
   
 </p>
 
